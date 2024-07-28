@@ -1,0 +1,14 @@
+{
+    "imports": {
+      "$fresh/": "...",
+      "preact": "...",
+      "preact/": "...",
+      "preact-render-to-string": "...",
+      "@preact/signals": "...",
+      "@preact/signals-core": "...",
+      "twind": "...",
+      "twind/": "...",
+      "lucid/": "https://deno.land/x/lucid@0.9.5/",
+      "~/": "./"
+    }
+  }
